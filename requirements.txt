@@ -1,7 +1,4 @@
 streamlit
-datetime
-pypdf
-re
-time
 supabase
-openai
+pypdf
+datetime
