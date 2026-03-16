@@ -1,0 +1,7 @@
+streamlit
+datetime
+pypdf
+re
+time
+supabase
+openai
